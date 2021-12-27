@@ -1,0 +1,5 @@
+node_modules
+eth-contracts/.env
+.idea
+eth-contracts/build/contracts
+eth-contracts/build
